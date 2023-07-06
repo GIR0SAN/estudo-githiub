@@ -12,3 +12,7 @@ E lá vamos nós!
 <h3>Adicionando mais arquivos</h3>
 <br>
 <p>Foi adicionado mais um arquivo, um arquivo JS.</p>
+<br>
+<h3>Adicionando arquivos através do Github na nuvem.</h3>
+<br>
+<p>Foi adicionado o Index.</p>
