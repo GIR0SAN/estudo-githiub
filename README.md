@@ -8,3 +8,7 @@
 ```
 E lá vamos nós!
 ```
+<br>
+<h3>Adicionando mais arquivos</h3>
+<br>
+<p>Foi adicionado mais um arquivo, um arquivo JS.</p>
