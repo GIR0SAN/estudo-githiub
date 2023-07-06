@@ -12,3 +12,5 @@ E lá vamos nós!
 <h3>Adicionando mais arquivos</h3>
 <br>
 <p>Foi adicionado mais um arquivo, um arquivo JS.</p>
+<br>
+<p>Conclui o curso, foi muito didático. Gostei. </p>
